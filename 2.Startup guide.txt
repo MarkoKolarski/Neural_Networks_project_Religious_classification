@@ -1,0 +1,6 @@
+We recommend running it directly on Google Colab.  
+Link to Google Colab: https://colab.research.google.com/drive/1USeM-yRQFkwmsblIssIb7eqpkZHgba72#scrollTo=DNQJD8MzoJrZ
+
+1) If you choose this method, you need to upload the 'mitnop datasets' folder to Google Drive (in the main directory 'My Drive') and run the code. A window will pop up where you need to allow access to Drive.
+
+2) Otherwise, place the 'mitnop datasets' folder wherever you prefer and manually set each path to it. Create a block for each comment: # IN15/2021 Ilija Vitošević, # IN60/2021 Marko Kolarski, # IN47/2021 Srđan Garić IMG, and # IN47/2021 Srđan Garić CSV. Run the .py/.ipynb file (not recommended, as we worked on Google Colab, so the paths and blocks are set for it).
